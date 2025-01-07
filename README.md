@@ -1,0 +1,1 @@
+run npx webpack to generate js script

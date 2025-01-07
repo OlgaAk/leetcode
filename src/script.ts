@@ -1,3 +1,4 @@
+import { testSmallerNumbersThanCurrent } from "./numberssmaller";
 import { numIslands } from "./numIslands";
 
 const input = [
@@ -25,3 +26,5 @@ const input3 = [
 console.log(numIslands(input3));
 console.log(numIslands(input2));
 console.log(numIslands(input));
+
+testSmallerNumbersThanCurrent();
