@@ -1,3 +1,4 @@
+import { testminTimeToVisitAllPoints } from "./minTimeToVisitAllPoints";
 import { testSmallerNumbersThanCurrent } from "./numberssmaller";
 import { numIslands } from "./numIslands";
 
@@ -28,3 +29,4 @@ console.log(numIslands(input2));
 console.log(numIslands(input));
 
 testSmallerNumbersThanCurrent();
+testminTimeToVisitAllPoints();
